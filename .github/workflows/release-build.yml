@@ -1,0 +1,56 @@
+name: Release Build
+
+on:
+  push:
+    tags:
+      - 'v*'  # Trigger workflow when a tag like v1.0.0 is pushed
+
+jobs:
+  build:
+    runs-on: windows-latest  # Run on Windows environment
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.406'  # Specify the required .NET version
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Release build (Generate self-contained .exe)
+        run: dotnet publish -c Release -r win-x64 --self-contained true -o out CopyLine.csproj
+
+      - name: Upload artifact (Executable file)
+        uses: actions/upload-artifact@v4
+        with:
+          name: Release-Build
+          path: out/*.exe
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest  # Use Linux since release processing is lightweight
+
+    permissions:
+      contents: write  # Grant permissions to create releases and upload assets
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: Release-Build
+          path: out
+
+      - name: Upload to GitHub Releases
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          files: out/*.exe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
