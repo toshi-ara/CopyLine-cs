@@ -129,7 +129,11 @@
 
 ## 開発のきっかけ
 
-VS Code あるいは Vim で同様の拡張機能を作成していましたが、
+[VS Code](https://github.com/toshi-ara/copy-line)
+あるいは
+[Vim](https://github.com/toshi-ara/copyline.vim)、
+[ブラウザ上](https://github.com/toshi-ara/copyline)
+で同様の拡張機能を作成していましたが、
 このときは [Clibor](https://chigusa-web.com/)（クリップボード履歴フリーソフト）
 を併用していました。
 ただし、導入および設定に手間がかかるため、
