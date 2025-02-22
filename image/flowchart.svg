@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.04453mm"
+   height="121.71361mm"
+   viewBox="0 0 135.04452 121.71359"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="fig_flowchart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="219.09349"
+     inkscape:cy="315.11411"
+     inkscape:window-width="1906"
+     inkscape:window-height="1040"
+     inkscape:window-x="4"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="-34.322382"
+       originy="-55.571705" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker5569"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5567"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324-5"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324-6"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324-9"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-4"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326-52"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324-54"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326-5-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324-5-4"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2326-7-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2324-6-3"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1L-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L-3"
+         transform="scale(-0.5)" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.32241,-55.5718)">
+    <rect
+       style="font-variation-settings:normal;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1058-3"
+       width="20.858616"
+       height="7.6359739"
+       x="58.396786"
+       y="137.62303" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.231453"
+       y="74.009544"
+       id="text311"><tspan
+         sodipodi:role="line"
+         id="tspan309"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="91.231453"
+         y="74.009544">Ctrl-V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.434284"
+       y="127.06789"
+       id="text311-3"><tspan
+         sodipodi:role="line"
+         id="tspan309-6"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="60.434284"
+         y="127.06789">Ctrl-C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.448727"
+       y="62.772701"
+       id="text311-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan309-6-5"
+         style="font-size:9.87778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="37.448727"
+         y="62.772701">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.290684"
+       y="134.92694"
+       id="text311-3-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-6-5-6"
+         style="font-size:9.87778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="37.290684"
+         y="134.92694">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="22.045942"
+       y="93.869026"
+       id="text1244"><tspan
+         sodipodi:role="line"
+         id="tspan1242"
+         style="stroke-width:0.264583px"
+         x="22.045942"
+         y="93.869026"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.254848"
+       y="83.040443"
+       id="text311-2-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="53.254848"
+         y="83.040443">同じ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.075741"
+       y="71.961044"
+       id="text311-2-8-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="58.075741"
+         y="71.961044">クリップボード</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="50.283577"
+       y="90.348923"
+       id="text311-2-8-2-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7-0-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="50.283577"
+         y="90.348923">キュー</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.041008"
+       y="91.308044"
+       id="text311-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-9"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.041008"
+         y="91.308044"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273">要素</tspan>1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.041008"
+       y="79.400864"
+       id="text311-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.041008"
+         y="79.400864"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-9">要素</tspan>1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.041008"
+       y="96.562958"
+       id="text311-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-2"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.041008"
+         y="96.562958"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-7">要素</tspan>2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.041008"
+       y="101.93292"
+       id="text311-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-9"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.041008"
+         y="101.93292"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-3">要素</tspan>3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.041008"
+       y="107.22846"
+       id="text311-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-0"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.041008"
+         y="107.22846"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-6">要素</tspan>4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.041008"
+       y="112.49701"
+       id="text311-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-6"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.041008"
+         y="112.49701"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-1">要素</tspan>5</tspan></text>
+    <rect
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1058"
+       width="20.858616"
+       height="7.6359739"
+       x="58.324188"
+       y="74.244087" />
+    <g
+       id="g1240"
+       transform="translate(1.2942974)">
+      <rect
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282223;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect1058-7"
+         width="21.156387"
+         height="26.44429"
+         x="56.97876"
+         y="87.320999" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,92.619904 H 78.080832"
+         id="path1183" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,97.994872 H 78.080832"
+         id="path1183-5" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,103.17463 H 78.080832"
+         id="path1183-3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.949182,108.38612 h 21.13165"
+         id="path1183-56" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="113.59633"
+       y="91.308044"
+       id="text311-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-92"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="113.59633"
+         y="91.308044"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-2">要素</tspan>2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="113.59633"
+       y="79.400864"
+       id="text311-2-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7-9"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="113.59633"
+         y="79.400864"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-9-7">要素</tspan>2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="113.59633"
+       y="96.562958"
+       id="text311-2-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-2-9"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="113.59633"
+         y="96.562958"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-7-3">要素</tspan>3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="113.59633"
+       y="101.93292"
+       id="text311-2-0-1"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-9-9"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="113.59633"
+         y="101.93292"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-3-4">要素</tspan>4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="113.59633"
+       y="107.22846"
+       id="text311-2-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-0-8"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="113.59633"
+         y="107.22846"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-6-4">要素</tspan>5</tspan></text>
+    <rect
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1058-6"
+       width="20.858616"
+       height="7.6359739"
+       x="103.16878"
+       y="74.244087" />
+    <g
+       id="g1240-1"
+       transform="translate(46.138888)">
+      <rect
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282223;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect1058-7-0"
+         width="21.156387"
+         height="26.44429"
+         x="56.97876"
+         y="87.320999" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,92.619904 H 78.080832"
+         id="path1183-6" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,97.994872 H 78.080832"
+         id="path1183-5-3" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,103.17463 H 78.080832"
+         id="path1183-3-2" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.949182,108.38612 h 21.13165"
+         id="path1183-56-0" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L)"
+       d="M 82.013362,78.072445 H 96.149883"
+       id="path1829"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="96.363968"
+       y="138.84116"
+       id="text311-6"><tspan
+         sodipodi:role="line"
+         id="tspan309-64"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="96.363968"
+         y="138.84116">Ctrl-V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.348572"
+       y="65.82692"
+       id="text311-6-8-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="91.348572"
+         y="65.82692"
+         id="tspan6080-9">要素<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan6116">1</tspan>を貼り付け</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:115%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.04509"
+       y="119.67541"
+       id="text311-6-8-5-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="114.04509"
+         y="119.67541"
+         id="tspan6080-9-3">要素を</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="114.04509"
+         y="124.51058"
+         id="tspan7318">繰り上げ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:115%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="158.99689"
+       y="119.67541"
+       id="text311-6-8-5-3-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="158.99689"
+         y="119.67541"
+         id="tspan6080-9-3-2">要素を</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="158.99689"
+         y="124.51058"
+         id="tspan7320">繰り上げ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="113.96228"
+       y="145.22096"
+       id="text311-6-8-5-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="113.96228"
+         y="145.22096"
+         id="tspan6080-9-7">コピー内容を貼り付け</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.056046"
+       y="145.07803"
+       id="text311-6-8-5-8-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="47.056046"
+         y="145.07803"
+         id="tspan6080-9-7-8">内容変更</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:115%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="94.72506"
+       y="152.22255"
+       id="text311-6-8-5-8-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="94.72506"
+         y="152.22255"
+         id="tspan6080-9-7-3">クリップボードに</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="94.72506"
+         y="157.05772"
+         id="tspan6413">キューの先頭要素を設置</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.30035"
+       y="65.82692"
+       id="text311-6-8-5-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="136.30035"
+         y="65.82692"
+         id="tspan6080-9-0">要素<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan6116-6">2</tspan>を貼り付け</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-3)"
+       d="m 68.851251,116.45038 v 14.05355"
+       id="path1829-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326)"
+       d="m 101.83078,105.72757 c 0,0 -1.55928,-0.32839 -1.77738,-1.55373 -0.218098,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326-5)"
+       d="m 101.83078,100.42004 c 0,0 -1.55928,-0.3284 -1.77738,-1.55371 -0.218098,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322-4"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326-7)"
+       d="m 101.83078,95.098958 c 0,0 -1.55928,-0.32839 -1.77738,-1.55373 -0.218098,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322-5"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326-6)"
+       d="m 101.83078,111.00076 c 0,0 -1.55928,-0.3284 -1.77738,-1.55374 -0.218098,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322-3"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.18324"
+       y="74.009544"
+       id="text311-8"><tspan
+         sodipodi:role="line"
+         id="tspan309-68"
+         style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         x="136.18324"
+         y="74.009544">Ctrl-V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="158.54813"
+       y="91.308044"
+       id="text311-2-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-92-1"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="158.54813"
+         y="91.308044"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-2-4">要素</tspan>3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="158.54813"
+       y="79.400864"
+       id="text311-2-8-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7-9-2"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="158.54813"
+         y="79.400864"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-9-7-0">要素</tspan>3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="158.54813"
+       y="96.562958"
+       id="text311-2-1-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-2-9-8"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="158.54813"
+         y="96.562958"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-7-3-9">要素</tspan>4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="158.54813"
+       y="101.93292"
+       id="text311-2-0-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-9-9-6"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="158.54813"
+         y="101.93292"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+   id="tspan1273-3-4-6">要素</tspan>5</tspan></text>
+    <rect
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1058-6-0"
+       width="20.858616"
+       height="7.6359739"
+       x="148.12057"
+       y="74.244087" />
+    <g
+       id="g1240-1-4"
+       transform="translate(91.090683)">
+      <rect
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282223;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect1058-7-0-8"
+         width="21.156387"
+         height="26.44429"
+         x="56.97876"
+         y="87.320999" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,92.619904 H 78.080832"
+         id="path1183-6-7" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,97.994872 H 78.080832"
+         id="path1183-5-3-1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,103.17463 H 78.080832"
+         id="path1183-3-2-7" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.949182,108.38612 h 21.13165"
+         id="path1183-56-0-2" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1L-7)"
+       d="m 126.96515,78.072445 h 14.13652"
+       id="path1829-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326-52)"
+       d="m 146.78257,105.72757 c 0,0 -1.55928,-0.32839 -1.77738,-1.55373 -0.2181,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322-2"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326-5-7)"
+       d="m 146.78257,100.42005 c 0,0 -1.55928,-0.32842 -1.77738,-1.553725 -0.2181,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322-4-2"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.246944;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2326-7-4)"
+       d="m 146.78257,95.098955 c 0,0 -1.55928,-0.32839 -1.77738,-1.55373 -0.2181,-1.22534 1.04009,-1.97032 1.04009,-1.97032"
+       id="path2322-5-6"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 62.094556,79.310681 -5.155993,2.459402 6.577888,6.603141"
+       id="path3623"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.113609"
+       y="154.687"
+       id="text311-2-58"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-62"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.113609"
+         y="154.687"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+   id="tspan1273-8">要素</tspan>1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="68.603844"
+       y="142.77982"
+       id="text311-2-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-7-7"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="68.603844"
+         y="142.77982"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+           id="tspan1273-9-2">コピー内容</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.113609"
+       y="159.94191"
+       id="text311-2-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-2-0"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.113609"
+         y="159.94191"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+   id="tspan1273-7-6">要素</tspan>2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.113609"
+       y="165.31187"
+       id="text311-2-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-9-99"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.113609"
+         y="165.31187"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+   id="tspan1273-3-0">要素</tspan>3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.113609"
+       y="170.60741"
+       id="text311-2-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-0-1"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.113609"
+         y="170.60741"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+   id="tspan1273-6-3">要素</tspan>4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:100%;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       x="69.113609"
+       y="175.87596"
+       id="text311-2-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan309-9-6-1"
+         style="font-size:3.52778px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
+         x="69.113609"
+         y="175.87596"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:1"
+   id="tspan1273-1-0">要素</tspan>5</tspan></text>
+    <g
+       id="g1240-4"
+       transform="translate(1.3668962,63.379004)">
+      <rect
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.282223;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect1058-7-03"
+         width="21.156387"
+         height="26.44429"
+         x="56.97876"
+         y="87.320999" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,92.619904 H 78.080832"
+         id="path1183-9" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,97.994872 H 78.080832"
+         id="path1183-5-1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 56.949183,103.17463 H 78.080832"
+         id="path1183-3-9" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.211667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 56.949182,108.38612 h 21.13165"
+         id="path1183-56-6" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.705555;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5569)"
+       d="m 82.101531,137.23767 c 0,0 6.54298,-2.16512 6.660074,-7.79586 0.117093,-5.63072 -5.401158,-10.65097 -5.401158,-10.65097"
+       id="path5565"
+       sodipodi:nodetypes="czc" />
+  </g>
+</svg>
