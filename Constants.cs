@@ -13,7 +13,7 @@ namespace CopyLine
     partial class CopyLine
     {
         // バージョン番号
-        public static string VersionNumber = "1.0.0";
+        public static string VersionNumber = "1.0.1";
 
         // 共通のラベル
         private const string textEnabledCopyLine = "CopyLineの機能を有効にする";
