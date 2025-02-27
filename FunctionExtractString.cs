@@ -15,7 +15,7 @@ namespace CopyLine
         static string pattern2 = @"^(\(?[A-Za-z0-9]+[\)\.][ \t]+|[-\+\*][ \t]+)?(?<content>.+)";
 
         // remove last symbols
-        static string pattern3 = "[#+|○×][ \t]*";
+        static string pattern3 = "(#{2,}|[○×]).*";
 
         public static string GetExtractString(string str)
         {
